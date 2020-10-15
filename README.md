@@ -16,7 +16,7 @@ Each track object is stored as a JSON object which stores positions of the 4 con
 }
 ```
 
-### Online Get Request
+### Remote Access
 This method allows you to load the track over the internet rather than loading it from a file - which would mean having a copy of each track stored in the file system. 
 ```
 import json
@@ -60,7 +60,7 @@ def get_track(track_name=None):
 ```
 
 ### Rendering
-Rendering can easily be cone using the python library 'matplotlib'
+Rendering can easily be cone using the python library 'matplotlib'.
 ```
 import matplotlib.pyplot as plt
 
