@@ -220,7 +220,7 @@
     "skid-pad": [
         {
             "name": "Skid Pad",
-            "url": "https://github.com/ManchesterStingerMotorsports/Tracks/blob/main/skid-pad/skid-pad.json"
+            "url": "https://raw.githubusercontent.com/ManchesterStingerMotorsports/Tracks/main/skid-pad/skid-pad.json"
         }
     ],
     "acceleration": [
