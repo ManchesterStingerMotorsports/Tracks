@@ -3,7 +3,7 @@ Resource of example race tracks for the FS-AI event that can be accessed remotly
 
 ### Track Object
 Each track object is stored as a JSON object which stores positions of the 4 cones used in the FS-AI event (blue, yellow, orange and big) aswell as the starting position and heading direction of the vehicle.
-```
+```python
 {
     "blue": [[x, y]],
     "yellow": [[x, y]],
@@ -18,7 +18,7 @@ Each track object is stored as a JSON object which stores positions of the 4 con
 
 ### Remote Access
 This method allows you to load the track over the internet rather than loading it from a file - which would mean having a copy of each track stored in the file system. 
-```
+```python
 import json
 import random
 import requests
@@ -61,7 +61,7 @@ def get_track(track_name=None):
 
 ### Rendering
 Rendering can easily be cone using the python library 'matplotlib'.
-```
+```python
 import matplotlib.pyplot as plt
 
 
