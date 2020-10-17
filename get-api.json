@@ -2,231 +2,231 @@
     "endurance": [
         {
             "name": "Barcelona",
-            "url": "https://raw.githubusercontent.com/ManchesterStingerMotorsports/Tracks/main/endurance/barcelona.json"
+            "url": "endurance/barcelona.json"
         },
         {
             "name": "Brands Hatch",
-            "url": "https://raw.githubusercontent.com/ManchesterStingerMotorsports/Tracks/main/endurance/brands-hatch.json"
+            "url": "endurance/brands-hatch.json"
         },
         {
             "name": "BRNO",
-            "url": "https://raw.githubusercontent.com/ManchesterStingerMotorsports/Tracks/main/endurance/brno.json"
+            "url": "endurance/brno.json"
         },
         {
             "name": "Cadwell Park",
-            "url": "https://raw.githubusercontent.com/ManchesterStingerMotorsports/Tracks/main/endurance/cadwell-park.json"
+            "url": "endurance/cadwell-park.json"
         },
         {
             "name": "Chester Field",
-            "url": "https://raw.githubusercontent.com/ManchesterStingerMotorsports/Tracks/main/endurance/chester-field.json"
+            "url": "endurance/chester-field.json"
         },
         {
             "name": "COTA",
-            "url": "https://raw.githubusercontent.com/ManchesterStingerMotorsports/Tracks/main/endurance/cota.json"
+            "url": "endurance/cota.json"
         },
         {
             "name": "Daytona Rally",
-            "url": "https://raw.githubusercontent.com/ManchesterStingerMotorsports/Tracks/main/endurance/daytona-rally.json"
+            "url": "endurance/daytona-rally.json"
         },
         {
             "name": "Daytona Speedway",
-            "url": "https://raw.githubusercontent.com/ManchesterStingerMotorsports/Tracks/main/endurance/daytona-speedway.json"
+            "url": "endurance/daytona-speedway.json"
         },
         {
             "name": "Dirtfish",
-            "url": "https://raw.githubusercontent.com/ManchesterStingerMotorsports/Tracks/main/endurance/dirtfish.json"
+            "url": "endurance/dirtfish.json"
         },
         {
             "name": "Donington",
-            "url": "https://raw.githubusercontent.com/ManchesterStingerMotorsports/Tracks/main/endurance/donington.json"
+            "url": "endurance/donington.json"
         },
         {
             "name": "Dubai Autodrome",
-            "url": "https://raw.githubusercontent.com/ManchesterStingerMotorsports/Tracks/main/endurance/dubai-autodrome.json"
+            "url": "endurance/dubai-autodrome.json"
         },
         {
             "name": "Fuji",
-            "url": "https://raw.githubusercontent.com/ManchesterStingerMotorsports/Tracks/main/endurance/fuji.json"
+            "url": "endurance/fuji.json"
         },
         {
             "name": "Glencern",
-            "url": "https://raw.githubusercontent.com/ManchesterStingerMotorsports/Tracks/main/endurance/glencern.json"
+            "url": "endurance/glencern.json"
         },
         {
             "name": "Green Wood",
-            "url": "https://raw.githubusercontent.com/ManchesterStingerMotorsports/Tracks/main/endurance/green-wood.json"
+            "url": "endurance/green-wood.json"
         },
         {
             "name": "Hockenheimring Classic",
-            "url": "https://raw.githubusercontent.com/ManchesterStingerMotorsports/Tracks/main/endurance/hockenheimring-classic.json"
+            "url": "endurance/hockenheimring-classic.json"
         },
         {
             "name": "Hockenheimring Rally",
-            "url": "https://raw.githubusercontent.com/ManchesterStingerMotorsports/Tracks/main/endurance/hockenheimring-rally.json"
+            "url": "endurance/hockenheimring-rally.json"
         },
         {
             "name": "Hockenheimring",
-            "url": "https://raw.githubusercontent.com/ManchesterStingerMotorsports/Tracks/main/endurance/hockenheimring.json"
+            "url": "endurance/hockenheimring.json"
         },
         {
             "name": "Imola",
-            "url": "https://raw.githubusercontent.com/ManchesterStingerMotorsports/Tracks/main/endurance/imola.json"
+            "url": "endurance/imola.json"
         },
         {
             "name": "Knockhill Rally",
-            "url": "https://raw.githubusercontent.com/ManchesterStingerMotorsports/Tracks/main/endurance/knockhill-rally.json"
+            "url": "endurance/knockhill-rally.json"
         },
         {
             "name": "Knockhill",
-            "url": "https://raw.githubusercontent.com/ManchesterStingerMotorsports/Tracks/main/endurance/knockhill.json"
+            "url": "endurance/knockhill.json"
         },
         {
             "name": "Laguna Seca",
-            "url": "https://raw.githubusercontent.com/ManchesterStingerMotorsports/Tracks/main/endurance/laguna-seca.json"
+            "url": "endurance/laguna-seca.json"
         },
         {
             "name": "Lankebanen Rally",
-            "url": "https://raw.githubusercontent.com/ManchesterStingerMotorsports/Tracks/main/endurance/lankebanen-rally.json"
+            "url": "endurance/lankebanen-rally.json"
         },
         {
             "name": "Le Mans Karting",
-            "url": "https://raw.githubusercontent.com/ManchesterStingerMotorsports/Tracks/main/endurance/le-mans-karting.json"
+            "url": "endurance/le-mans-karting.json"
         },
         {
             "name": "Le Mans",
-            "url": "https://raw.githubusercontent.com/ManchesterStingerMotorsports/Tracks/main/endurance/le-mans.json"
+            "url": "endurance/le-mans.json"
         },
         {
             "name": "Loheac",
-            "url": "https://raw.githubusercontent.com/ManchesterStingerMotorsports/Tracks/main/endurance/loheac.json"
+            "url": "endurance/loheac.json"
         },
         {
             "name": "Long Beach Street",
-            "url": "https://raw.githubusercontent.com/ManchesterStingerMotorsports/Tracks/main/endurance/long-beach-street.json"
+            "url": "endurance/long-beach-street.json"
         },
         {
             "name": "Lydden Hill",
-            "url": "https://raw.githubusercontent.com/ManchesterStingerMotorsports/Tracks/main/endurance/lydden-hill.json"
+            "url": "endurance/lydden-hill.json"
         },
         {
             "name": "Mercedes Benz Ice Track",
-            "url": "https://raw.githubusercontent.com/ManchesterStingerMotorsports/Tracks/main/endurance/merc-benz-ice.json"
+            "url": "endurance/merc-benz-ice.json"
         },
         {
             "name": "Mojave",
-            "url": "https://raw.githubusercontent.com/ManchesterStingerMotorsports/Tracks/main/endurance/mojave.json"
+            "url": "endurance/mojave.json"
         },
         {
             "name": "Monaco",
-            "url": "https://raw.githubusercontent.com/ManchesterStingerMotorsports/Tracks/main/endurance/monaco.json"
+            "url": "endurance/monaco.json"
         },
         {
             "name": "Monza",
-            "url": "https://raw.githubusercontent.com/ManchesterStingerMotorsports/Tracks/main/endurance/monza.json"
+            "url": "endurance/monza.json"
         },
         {
             "name": "Nordschleife",
-            "url": "https://raw.githubusercontent.com/ManchesterStingerMotorsports/Tracks/main/endurance/nordschleife.json"
+            "url": "endurance/nordschleife.json"
         },
         {
             "name": "Nurburgring GP",
-            "url": "https://raw.githubusercontent.com/ManchesterStingerMotorsports/Tracks/main/endurance/nurburgring-gp.json"
+            "url": "endurance/nurburgring-gp.json"
         },
         {
             "name": "Oschersleben",
-            "url": "https://raw.githubusercontent.com/ManchesterStingerMotorsports/Tracks/main/endurance/oschersleben.json"
+            "url": "endurance/oschersleben.json"
         },
         {
             "name": "Oulton Park",
-            "url": "https://raw.githubusercontent.com/ManchesterStingerMotorsports/Tracks/main/endurance/oulton-park.json"
+            "url": "endurance/oulton-park.json"
         },
         {
             "name": "Portimao",
-            "url": "https://raw.githubusercontent.com/ManchesterStingerMotorsports/Tracks/main/endurance/portimao.json"
+            "url": "endurance/portimao.json"
         },
         {
             "name": "Red Bull Ring",
-            "url": "https://raw.githubusercontent.com/ManchesterStingerMotorsports/Tracks/main/endurance/red-bull-ring.json"
+            "url": "endurance/red-bull-ring.json"
         },
         {
             "name": "Road America",
-            "url": "https://raw.githubusercontent.com/ManchesterStingerMotorsports/Tracks/main/endurance/road-america.json"
+            "url": "endurance/road-america.json"
         },
         {
             "name": "Rouen Les Essarts",
-            "url": "https://raw.githubusercontent.com/ManchesterStingerMotorsports/Tracks/main/endurance/rouen-les-essarts.json"
+            "url": "endurance/rouen-les-essarts.json"
         },
         {
             "name": "Ruapuna Park",
-            "url": "https://raw.githubusercontent.com/ManchesterStingerMotorsports/Tracks/main/endurance/ruapuna-park.json"
+            "url": "endurance/ruapuna-park.json"
         },
         {
             "name": "Sampala Ice Circuit",
-            "url": "https://raw.githubusercontent.com/ManchesterStingerMotorsports/Tracks/main/endurance/sampala-ice-circuit.json"
+            "url": "endurance/sampala-ice-circuit.json"
         },
         {
             "name": "Silverstone Classic",
-            "url": "https://raw.githubusercontent.com/ManchesterStingerMotorsports/Tracks/main/endurance/silverstone-class.json"
+            "url": "endurance/silverstone-class.json"
         },
         {
             "name": "Silverstone",
-            "url": "https://raw.githubusercontent.com/ManchesterStingerMotorsports/Tracks/main/endurance/silverstone.json"
+            "url": "endurance/silverstone.json"
         },
         {
             "name": "Snetterton",
-            "url": "https://raw.githubusercontent.com/ManchesterStingerMotorsports/Tracks/main/endurance/snetterton.json"
+            "url": "endurance/snetterton.json"
         },
         {
             "name": "Sonoma Raceway",
-            "url": "https://raw.githubusercontent.com/ManchesterStingerMotorsports/Tracks/main/endurance/sonoma-raceway.json"
+            "url": "endurance/sonoma-raceway.json"
         },
         {
             "name": "Spa Historic",
-            "url": "https://raw.githubusercontent.com/ManchesterStingerMotorsports/Tracks/main/endurance/spa-historic.json"
+            "url": "endurance/spa-historic.json"
         },
         {
             "name": "Spa",
-            "url": "https://raw.githubusercontent.com/ManchesterStingerMotorsports/Tracks/main/endurance/spa.json"
+            "url": "endurance/spa.json"
         },
         {
             "name": "Sportsland Sugo",
-            "url": "https://raw.githubusercontent.com/ManchesterStingerMotorsports/Tracks/main/endurance/sportsland-sugo.json"
+            "url": "endurance/sportsland-sugo.json"
         },
         {
             "name": "Summerton",
-            "url": "https://raw.githubusercontent.com/ManchesterStingerMotorsports/Tracks/main/endurance/summerton.json"
+            "url": "endurance/summerton.json"
         },
         {
             "name": "Watkins Glen",
-            "url": "https://raw.githubusercontent.com/ManchesterStingerMotorsports/Tracks/main/endurance/watkins-glen.json"
+            "url": "endurance/watkins-glen.json"
         },
         {
             "name": "Wildcrest",
-            "url": "https://raw.githubusercontent.com/ManchesterStingerMotorsports/Tracks/main/endurance/wildcrest.json"
+            "url": "endurance/wildcrest.json"
         },
         {
             "name": "Willow Springs",
-            "url": "https://raw.githubusercontent.com/ManchesterStingerMotorsports/Tracks/main/endurance/willow-springs.json"
+            "url": "endurance/willow-springs.json"
         },
         {
             "name": "Zhuhai",
-            "url": "https://raw.githubusercontent.com/ManchesterStingerMotorsports/Tracks/main/endurance/zhuhai.json"
+            "url": "endurance/zhuhai.json"
         },
         {
             "name": "Zolder",
-            "url": "https://raw.githubusercontent.com/ManchesterStingerMotorsports/Tracks/main/endurance/zolder.json"
+            "url": "endurance/zolder.json"
         }
     ],
     "skid-pad": [
         {
             "name": "Skid Pad",
-            "url": "https://raw.githubusercontent.com/ManchesterStingerMotorsports/Tracks/main/skid-pad/skid-pad.json"
+            "url": "skid-pad/skid-pad.json"
         }
     ],
     "acceleration": [
         {
             "name": "Acceleration",
-            "url": "https://raw.githubusercontent.com/ManchesterStingerMotorsports/Tracks/main/acceleration/acceleration.json"
+            "url": "acceleration/acceleration.json"
         }
     ]
 }
