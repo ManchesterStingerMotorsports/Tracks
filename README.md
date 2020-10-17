@@ -33,8 +33,9 @@ def get_track(track_name=None):
             track_name: Track name to load.
 
         Returns:
-            A dictionary object containing the name of the track and the track object. The trackobject
-            contains the positions of each cone type and the initial car position.
+            track_name:
+                A dictionary object containing the name of the track and the track object. The trackobject
+                contains the positions of each cone type and the initial car position.
 
         Raises:
             Raises a network error in the event the HTTP request fails.
@@ -91,16 +92,26 @@ import matplotlib.pyplot as plt
 
 
 def render(track):
+    """ Renders the given track object.
+
+        This function will render the given object as a matplotlib plot.
+
+        Args:
+            track:
+                The track object should be a dictionary object containing the keys {blue, yellow, big, orange} as
+                arrays of positions. The car object also contains a "pos" key which stores a position. Each position
+                should store two value in the form [x, y].
+    """
     plt.scatter([x[0] for x in track["blue"]], [x[1] for x in track["blue"]], color=(0, 0, 1))
     plt.scatter([x[0] for x in track["yellow"]], [x[1] for x in track["yellow"]], color=(0.9, 0.9, 0))
     plt.scatter([x[0] for x in track["big"]], [x[1] for x in track["big"]])
     plt.scatter([x[0] for x in track["orange"]], [x[1] for x in track["orange"]])
 
     plt.scatter([track["car"]["pos"][0]], [track["car"]["pos"][1]])
-    
+
     plt.axis("equal")
     plt.show()
-    
+
     
 render(get_track("Skid Pad")["track"])
 ```
